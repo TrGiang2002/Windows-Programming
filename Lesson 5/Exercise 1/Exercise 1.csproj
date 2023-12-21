@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Exercise_1</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images %282%29.jpg" />
+    <None Remove="images %283%29.jpg" />
+    <None Remove="tải xuống %281%29.jpg" />
+    <None Remove="tải xuống %282%29.jpg" />
+    <None Remove="tải xuống %283%29.jpg" />
+    <None Remove="tải xuống %284%29.jpg" />
+    <None Remove="tải xuống %285%29.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images (2).jpg" />
+    <Resource Include="images (3).jpg" />
+    <Resource Include="tải xuống (1).jpg" />
+    <Resource Include="tải xuống (2).jpg" />
+    <Resource Include="tải xuống (3).jpg" />
+    <Resource Include="tải xuống (4).jpg" />
+    <Resource Include="tải xuống (5).jpg" />
+  </ItemGroup>
+
+</Project>
