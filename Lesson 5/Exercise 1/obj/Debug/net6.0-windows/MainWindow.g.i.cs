@@ -117,7 +117,11 @@ namespace Exercise_1 {
                 return;
             }
             _contentLoaded = true;
+<<<<<<< HEAD
             System.Uri resourceLocater = new System.Uri("/Exercise 1;component/mainwindow.xaml", System.UriKind.Relative);
+=======
+            System.Uri resourceLocater = new System.Uri("/Exercise 1;V1.0.0.0;component/mainwindow.xaml", System.UriKind.Relative);
+>>>>>>> develop
             
             #line 1 "..\..\..\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

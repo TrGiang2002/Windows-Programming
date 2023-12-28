@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Admin\\source\\repos\\Lesson 5\\Exercise 2\\Exercise 2.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Admin\\source\\repos\\Lesson 5\\Exercise 2\\Exercise 2.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Admin\\source\\repos\\Lesson 5\\Exercise 2\\obj\\",
+=======
+    "D:\\New folder (2)\\Windows-Programming\\Lesson 5\\Exercise 2\\Exercise 2.csproj": {}
+  },
+  "projects": {
+    "D:\\New folder (2)\\Windows-Programming\\Lesson 5\\Exercise 2\\Exercise 2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\New folder (2)\\Windows-Programming\\Lesson 5\\Exercise 2\\Exercise 2.csproj",
+        "projectName": "Exercise 2",
+        "projectPath": "D:\\New folder (2)\\Windows-Programming\\Lesson 5\\Exercise 2\\Exercise 2.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\New folder (2)\\Windows-Programming\\Lesson 5\\Exercise 2\\obj\\",
+>>>>>>> develop
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

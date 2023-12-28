@@ -4,17 +4,29 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\Admin\source\repos\Lesson 5\Exercise 2\obj\Debug\net6.0-windows\
+=======
+D:\New folder (2)\Windows-Programming\Lesson 5\Exercise 2\obj\Debug\net6.0-windows\
+>>>>>>> develop
 Exercise_2
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+<<<<<<< HEAD
 C:\Users\Admin\source\repos\Lesson 5\Exercise 2\App.xaml
+=======
+D:\New folder (2)\Windows-Programming\Lesson 5\Exercise 2\App.xaml
+>>>>>>> develop
 11407045341
 
 5-1763766321
 194183970531
 MainWindow.xaml;
 
+<<<<<<< HEAD
 True
+=======
+False
+>>>>>>> develop
 

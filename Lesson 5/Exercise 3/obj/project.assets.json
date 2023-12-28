@@ -13,18 +13,30 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Lesson 5\\Exercise 3\\Exercise 3.csproj",
       "projectName": "Exercise 3",
       "projectPath": "C:\\Users\\Admin\\source\\repos\\Lesson 5\\Exercise 3\\Exercise 3.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\source\\repos\\Lesson 5\\Exercise 3\\obj\\",
+=======
+      "projectUniqueName": "D:\\New folder (2)\\Windows-Programming\\Lesson 5\\Exercise 3\\Exercise 3.csproj",
+      "projectName": "Exercise 3",
+      "projectPath": "D:\\New folder (2)\\Windows-Programming\\Lesson 5\\Exercise 3\\Exercise 3.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\New folder (2)\\Windows-Programming\\Lesson 5\\Exercise 3\\obj\\",
+>>>>>>> develop
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
+<<<<<<< HEAD
         "net5.0-windows7.0"
+=======
+        "net5.0-windows"
+>>>>>>> develop
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -51,10 +63,36 @@
           "net47",
           "net471",
           "net472",
+<<<<<<< HEAD
           "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
+=======
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
+>>>>>>> develop
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -63,7 +101,11 @@
             "privateAssets": "none"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+>>>>>>> develop
       }
     }
   }
