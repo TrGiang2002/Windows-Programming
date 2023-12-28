@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Lesson 5\\Exercise 2\\Exercise 2.csproj": {}
+    "D:\\New folder (2)\\Windows-Programming\\Lesson 5\\Exercise 2\\Exercise 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Lesson 5\\Exercise 2\\Exercise 2.csproj": {
+    "D:\\New folder (2)\\Windows-Programming\\Lesson 5\\Exercise 2\\Exercise 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Lesson 5\\Exercise 2\\Exercise 2.csproj",
+        "projectUniqueName": "D:\\New folder (2)\\Windows-Programming\\Lesson 5\\Exercise 2\\Exercise 2.csproj",
         "projectName": "Exercise 2",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Lesson 5\\Exercise 2\\Exercise 2.csproj",
+        "projectPath": "D:\\New folder (2)\\Windows-Programming\\Lesson 5\\Exercise 2\\Exercise 2.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Lesson 5\\Exercise 2\\obj\\",
+        "outputPath": "D:\\New folder (2)\\Windows-Programming\\Lesson 5\\Exercise 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
